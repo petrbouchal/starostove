@@ -53,3 +53,16 @@ Soubor obsahuje
 - skript obsahuje kód provádějící několik manuálních oprav pro několik případů, kde výchozí text políčka "starosta" byla natolik zmatený, že nemělo smysl psát pro něj psát obecný algoritmus. Na to je potřeba dát pozor při případné replikaci na jiných datech/v jiném období atd.
 - v datech nejsou ostatní zastupitelé - ti jsou ale v registru
 - registry ČSÚ dostupné v běžné tabulkové formě v balíku open dat neobsahují nezvolené kandidáty. Jejich data by bylo třeba posbírat skrz de facto API ČSÚ k volbám, dostupné ve formátu XML na stránce volebních opendat.
+
+## Licence
+
+Celkově nejasná:
+- Data z wikipedie [jsou CC-BY-SA 3.0, popř Copyleft](https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content).
+- Můj kód je MIT Licence.
+- Data z ČSÚ jsou označena jako open data, ale není u nich uvedena licence.
+
+## Bonus
+
+### Povolání starostů
+
+![](povolanistarosu.png)
