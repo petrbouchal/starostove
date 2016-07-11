@@ -65,4 +65,4 @@ Celkově nejasná:
 
 ### Povolání starostů
 
-![](povolanistarosu.png)
+![](povolanistarostu.png)
