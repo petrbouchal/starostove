@@ -23,6 +23,11 @@ Dokumentace k oběma souborům je v adresáři [data-input/dokumentace](data-inp
 
 ### Výstupní data v [`data-output`](/data-output/)
 
+[`seznamobci.csv`](data-output/seznamobci.csv): seznam obcí, jak vyšel ze skriptu pro stahování jmen z wikipedie.
+
+- name: jméno obce
+- url: wiki URL stránky obce
+
 [`starostovezwiki.csv`](data-output/starostovezwiki.csv): hrubá data, jak vyšla ze skriptu pro stahování jmen z wikipedie.
 
 - nazev: název obce
