@@ -2,7 +2,7 @@ Data o starostech českých obcí a měst 2016
 =====
 
 Toto repo obsahuje data o českých starostech a kód potřebný k jejich sběru a sestavení.
-Výsledný dataset je [`data-output/starostove_komplet.csv`](/data-output/starostove_komplet.csv)
+Výsledný dataset je [`data-output/starostove_komplet.csv`](/data-output/starostove_komplet.csv). Obsahuje data o stranické příslušnosti a získaných hlasech, stejně jako data z volebního lístku (věk, povolání, bydliště).
 
 Data pochází z wikipedie (9. července 2016) a z [open data registrů ČS k volbám do zastupitelstev obcí 2014](http://volby.cz/opendata/kv2014/kv2014_opendata.htm) - konkrétně registr zastupitelů a volebních stran.
 
