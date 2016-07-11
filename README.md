@@ -33,6 +33,7 @@ Dokumentace k oběma souborům je v adresáři [data-input/dokumentace](data-inp
 - starosta: jméno starosty
 
 [`starostove_komplet.csv`](data-output/starostovezwiki.csv): hlavní výstupní dataset
+
 [`starostove_komplet.xlsx`](data-output/starostovezwiki.xlsx): to stejné v xlsx
 
 Soubor obsahuje propojená data o starostech, obcích a jejich stranách. Vznikl vyhledáním jména každého starosty podle jména a kódu obce v registru obcí a připojením dat z tohoto registru a následným obohacením o data z registru volebních stran.
