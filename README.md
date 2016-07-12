@@ -61,10 +61,9 @@ Soubor obsahuje
 
 ## Licence
 
-Celkově nejasná:
 - Data z wikipedie [jsou CC-BY-SA 3.0, popř Copyleft](https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content).
 - Můj kód je MIT Licence.
-- Data z ČSÚ jsou označena jako open data, ale není u nich uvedena licence.
+- [Licence pro data ČSÚ](https://www.czso.cz/csu/czso/podminky_pro_vyuzivani_a_dalsi_zverejnovani_statistickych_udaju_csu).
 
 ## Bonus
 
