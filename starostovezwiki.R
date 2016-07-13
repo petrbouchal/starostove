@@ -1,5 +1,6 @@
 library(rvest)
 library(tibble)
+library(readr)
 
 wikilist <- read_html("https://cs.wikipedia.org/wiki/Seznam_obc%C3%AD_v_%C4%8Cesku") %>% 
   html_nodes("body td.navbox-list a")
@@ -8,6 +9,8 @@ seznamobci <- data_frame(
   "name" = html_text(wikilist),
   "url" = html_attr(wikilist, "href")
 )
+
+write_csv(seznamobci, "data-output/seznamobci.csv")
 
 source("get_wiki_items.r")
 
